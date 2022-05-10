@@ -4,7 +4,7 @@ three
 four
 five
 six
-seven
-eight
+seven second update by git_1 branch
+eight second update by git_1 branch
 nine
 ten
